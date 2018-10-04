@@ -54,7 +54,10 @@ for (let i = 0; i < teachers.length; i++) {
 
 // opdracht 3
 
-
+/* 
+    First, we create the teacher array, and in said array, we then add the function this whole blasted exercise is about.
+    We add in a return value, so that we are not greedy and give back the value to be used in the for loop at the bottom.
+*/
 
 let teacherSellout = [
     {
